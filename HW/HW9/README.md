@@ -13,6 +13,6 @@ PS D:\ccc\_alg> python hw9.py
 ```
 
 
-[程式碼](https://github.com/CH623/_alg/tree/main/HW/HW9)
+[程式碼](https://github.com/CH623/_alg/blob/main/HW/HW9/ed.py)
 
 [AI對話](https://chatgpt.com/share/6959c447-3a98-8012-b301-079ee639d10a)
