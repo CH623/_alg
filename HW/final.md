@@ -58,5 +58,10 @@
 
 使用chatgpt了解計算理論的故事
 
+## 習題十二
+[HW12](https://github.com/CH623/_alg/blob/main/HW/HW12.py)
+
+使用geminai理解並輸出程式碼
+
 ## 期中
 [MID](https://github.com/CH623/_alg/tree/main/HW/mid)
