@@ -57,3 +57,6 @@
 [HW11](https://chatgpt.com/share/6959d104-010c-8012-8eae-269898cad64c4)
 
 使用chatgpt了解計算理論的故事
+
+## 期中
+[MID](https://github.com/CH623/_alg/tree/main/HW/mid)
