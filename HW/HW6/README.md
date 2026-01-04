@@ -1,4 +1,4 @@
-## 1 爬山演算法
+## 1. 爬山演算法
 
 [程式碼](https://github.com/CH623/_alg/blob/main/HW/HW6/climb.py)
 
